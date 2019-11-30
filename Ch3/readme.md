@@ -17,8 +17,8 @@ The constains can be set using the constraint menu
 ![app4](images/app4.png)
 
 
-The finished product displays five text fields that have auto constraints set for central alignment.
-The top most text field is constrained to the top of the super view.
-The rest of the text fields have thier top constrained to the bottom of the text field above itself.
+The finished product displays five text fields that have auto constraints set for central alignment and an eight point spacing
+The top most text field is constrained to the top of the super view
+The rest of the text fields have thier top constrained to the bottom of the text field above itself
 
 ![app5](images/app5.png)
