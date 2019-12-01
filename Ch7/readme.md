@@ -26,4 +26,4 @@ genstrings MapViewController.swift
 Then I had to manually translate the localization of the strings to Spanish. Now the dynamic strings are
 localized
 
-![app4](images/app3.png)
+![app4](images/app4.png)
